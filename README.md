@@ -4,6 +4,8 @@
 
 I build financial models, automation systems, and predictive analytics tools for complex, multi-entity financial operations. My work sits at the intersection of accounting, data engineering, and applied statistics — solving real business problems with defensible methodology.
 
+> ⚠️ **This portfolio is actively being built out.** Existing models and tools are being sanitized and uploaded on a rolling basis. Check back for new repositories.
+
 ---
 
 ## What I Build
@@ -33,3 +35,4 @@ End-to-end process automation for remittance reconciliation, bank allocation, da
 All data in these repositories is **synthetic** — generated to preserve analytical structure while containing zero real company, client, or account information. Methodologies reflect real-world implementations adapted for demonstration purposes.
 
 **All code is proprietary.** 
+
